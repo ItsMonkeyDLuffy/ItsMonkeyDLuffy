@@ -23,7 +23,7 @@
           <td style="width: 50%; vertical-align: top; padding-left: 10px;">
             <ul>
               <li><strong>📧 Email:</strong> gupta.vaibhav9313@gmail.com</li>
-              <li>🚀 Building <a href="https://github.com/ItsMonkeyDLuffy/dharma-yodha" target="_blank">Dharma Yodha</a></li>
+              <li>🚀 Building <a href="https://github.com/ItsMonkeyDLuffy/DharmaYodhaApp" target="_blank">Dharma Yodha</a></li>
             </ul>
           </td>
         </tr>
